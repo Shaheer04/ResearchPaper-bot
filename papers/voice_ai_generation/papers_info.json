@@ -1,0 +1,22 @@
+{
+  "2312.17281v1": {
+    "title": "Revolutionizing Personalized Voice Synthesis: The Journey towards Emotional and Individual Authenticity with DIVSE (Dynamic Individual Voice Synthesis Engine)",
+    "authors": [
+      "Fan Shi"
+    ],
+    "summary": "This comprehensive paper delves into the forefront of personalized voice\nsynthesis within artificial intelligence (AI), spotlighting the Dynamic\nIndividual Voice Synthesis Engine (DIVSE). DIVSE represents a groundbreaking\nleap in text-to-voice (TTS) technology, uniquely focusing on adapting and\npersonalizing voice outputs to match individual vocal characteristics. The\nresearch underlines the gap in current AI-generated voices, which, while\ntechnically advanced, fall short in replicating the unique individuality and\nexpressiveness intrinsic to human speech. It outlines the challenges and\nadvancements in personalized voice synthesis, emphasizing the importance of\nemotional expressiveness, accent and dialect variability, and capturing\nindividual voice traits. The architecture of DIVSE is meticulously detailed,\nshowcasing its three core components: Voice Characteristic Learning Module\n(VCLM), Emotional Tone and Accent Adaptation Module (ETAAM), and Dynamic Speech\nSynthesis Engine (DSSE). The innovative approach of DIVSE lies in its adaptive\nlearning capability, which evolves over time to tailor voice outputs to\nspecific user traits. The paper presents a rigorous experimental setup,\nutilizing accepted datasets and personalization metrics like Mean Opinion Score\n(MOS) and Emotional Alignment Score, to validate DIVSE's superiority over\nmainstream models. The results depict a clear advancement in achieving higher\npersonalization and emotional resonance in AI-generated voices.",
+    "pdf_url": "http://arxiv.org/pdf/2312.17281v1",
+    "published": "2023-12-28"
+  },
+  "2410.03791v2": {
+    "title": "People are poorly equipped to detect AI-powered voice clones",
+    "authors": [
+      "Sarah Barrington",
+      "Emily A. Cooper",
+      "Hany Farid"
+    ],
+    "summary": "As generative artificial intelligence (AI) continues its ballistic\ntrajectory, everything from text to audio, image, and video generation\ncontinues to improve at mimicking human-generated content. Through a series of\nperceptual studies, we report on the realism of AI-generated voices in terms of\nidentity matching and naturalness. We find human participants cannot\nconsistently identify recordings of AI-generated voices. Specifically,\nparticipants perceived the identity of an AI-voice to be the same as its real\ncounterpart approximately 80% of the time, and correctly identified a voice as\nAI generated only about 60% of the time.",
+    "pdf_url": "http://arxiv.org/pdf/2410.03791v2",
+    "published": "2024-10-03"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "2312.17281v1": {
+    "title": "Revolutionizing Personalized Voice Synthesis: The Journey towards Emotional and Individual Authenticity with DIVSE (Dynamic Individual Voice Synthesis Engine)",
+    "authors": [
+      "Fan Shi"
+    ],
+    "summary": "This comprehensive paper delves into the forefront of personalized voice\nsynthesis within artificial intelligence (AI), spotlighting the Dynamic\nIndividual Voice Synthesis Engine (DIVSE). DIVSE represents a groundbreaking\nleap in text-to-voice (TTS) technology, uniquely focusing on adapting and\npersonalizing voice outputs to match individual vocal characteristics. The\nresearch underlines the gap in current AI-generated voices, which, while\ntechnically advanced, fall short in replicating the unique individuality and\nexpressiveness intrinsic to human speech. It outlines the challenges and\nadvancements in personalized voice synthesis, emphasizing the importance of\nemotional expressiveness, accent and dialect variability, and capturing\nindividual voice traits. The architecture of DIVSE is meticulously detailed,\nshowcasing its three core components: Voice Characteristic Learning Module\n(VCLM), Emotional Tone and Accent Adaptation Module (ETAAM), and Dynamic Speech\nSynthesis Engine (DSSE). The innovative approach of DIVSE lies in its adaptive\nlearning capability, which evolves over time to tailor voice outputs to\nspecific user traits. The paper presents a rigorous experimental setup,\nutilizing accepted datasets and personalization metrics like Mean Opinion Score\n(MOS) and Emotional Alignment Score, to validate DIVSE's superiority over\nmainstream models. The results depict a clear advancement in achieving higher\npersonalization and emotional resonance in AI-generated voices.",
+    "pdf_url": "http://arxiv.org/pdf/2312.17281v1",
+    "published": "2023-12-28"
+  },
+  "2410.03791v2": {
+    "title": "People are poorly equipped to detect AI-powered voice clones",
+    "authors": [
+      "Sarah Barrington",
+      "Emily A. Cooper",
+      "Hany Farid"
+    ],
+    "summary": "As generative artificial intelligence (AI) continues its ballistic\ntrajectory, everything from text to audio, image, and video generation\ncontinues to improve at mimicking human-generated content. Through a series of\nperceptual studies, we report on the realism of AI-generated voices in terms of\nidentity matching and naturalness. We find human participants cannot\nconsistently identify recordings of AI-generated voices. Specifically,\nparticipants perceived the identity of an AI-voice to be the same as its real\ncounterpart approximately 80% of the time, and correctly identified a voice as\nAI generated only about 60% of the time.",
+    "pdf_url": "http://arxiv.org/pdf/2410.03791v2",
+    "published": "2024-10-03"
+  },
+  "2404.08857v2": {
+    "title": "Voice Attribute Editing with Text Prompt",
+    "authors": [
+      "Zhengyan Sheng",
+      "Yang Ai",
+      "Li-Juan Liu",
+      "Jia Pan",
+      "Zhen-Hua Ling"
+    ],
+    "summary": "Despite recent advancements in speech generation with text prompt providing\ncontrol over speech style, voice attributes in synthesized speech remain\nelusive and challenging to control. This paper introduces a novel task: voice\nattribute editing with text prompt, with the goal of making relative\nmodifications to voice attributes according to the actions described in the\ntext prompt. To solve this task, VoxEditor, an end-to-end generative model, is\nproposed. In VoxEditor, addressing the insufficiency of text prompt, a Residual\nMemory (ResMem) block is designed, that efficiently maps voice attributes and\nthese descriptors into the shared feature space. Additionally, the ResMem block\nis enhanced with a voice attribute degree prediction (VADP) block to align\nvoice attributes with corresponding descriptors, addressing the imprecision of\ntext prompt caused by non-quantitative descriptions of voice attributes. We\nalso establish the open-source VCTK-RVA dataset, which leads the way in manual\nannotations detailing voice characteristic differences among different\nspeakers. Extensive experiments demonstrate the effectiveness and\ngeneralizability of our proposed method in terms of both objective and\nsubjective metrics. The dataset and audio samples are available on the website.",
+    "pdf_url": "http://arxiv.org/pdf/2404.08857v2",
+    "published": "2024-04-13"
+  },
+  "2412.01433v1": {
+    "title": "My Voice, Your Voice, Our Voice: Attitudes Towards Collective Governance of a Choral AI Dataset",
+    "authors": [
+      "Jennifer Ding",
+      "Eva J\u00e4ger",
+      "Victoria Ivanova",
+      "Mercedes Bunz"
+    ],
+    "summary": "Data grows in value when joined and combined; likewise the power of voice\ngrows in ensemble. With 15 UK choirs, we explore opportunities for bottom-up\ndata governance of a jointly created Choral AI Dataset. Guided by a survey of\nchorister attitudes towards generative AI models trained using their data, we\nexplore opportunities to create empowering governance structures that go beyond\nopt in and opt out. We test the development of novel mechanisms such as a\nTrusted Data Intermediary (TDI) to enable governance of the dataset amongst the\nchoirs and AI developers. We hope our findings can contribute to growing\nefforts to advance collective data governance practices and shape a more\ncreative, empowering future for arts communities in the generative AI\necosystem.",
+    "pdf_url": "http://arxiv.org/pdf/2412.01433v1",
+    "published": "2024-12-02"
+  },
+  "2502.10329v1": {
+    "title": "VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect",
+    "authors": [
+      "Qingyuan Fei",
+      "Wenjie Hou",
+      "Xuan Hai",
+      "Xin Liu"
+    ],
+    "summary": "The rapid advancements in AI voice cloning, fueled by machine learning, have\nsignificantly impacted text-to-speech (TTS) and voice conversion (VC) fields.\nWhile these developments have led to notable progress, they have also raised\nconcerns about the misuse of AI VC technology, causing economic losses and\nnegative public perceptions. To address this challenge, this study focuses on\ncreating active defense mechanisms against AI VC systems.\n  We propose a novel active defense method, VocalCrypt, which embeds\npseudo-timbre (jamming information) based on SFS into audio segments that are\nimperceptible to the human ear, thereby forming systematic fragments to prevent\nvoice cloning. This approach protects the voice without compromising its\nquality. In comparison to existing methods, such as adversarial noise\nincorporation, VocalCrypt significantly enhances robustness and real-time\nperformance, achieving a 500\\% increase in generation speed while maintaining\ninterference effectiveness.\n  Unlike audio watermarking techniques, which focus on post-detection, our\nmethod offers preemptive defense, reducing implementation costs and enhancing\nfeasibility. Extensive experiments using the Zhvoice and VCTK Corpus datasets\nshow that our AI-cloned speech defense system performs excellently in automatic\nspeaker verification (ASV) tests while preserving the integrity of the\nprotected audio.",
+    "pdf_url": "http://arxiv.org/pdf/2502.10329v1",
+    "published": "2025-02-14"
+  }
+}

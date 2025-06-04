@@ -28,7 +28,6 @@ class MCP_ChatBot:
             
             process_query = True
             while process_query:
-                # Fix: Use candidates[0].content.parts instead of response.content
                 if response.candidates and len(response.candidates) > 0:
                     candidate = response.candidates[0]
                     if hasattr(candidate, 'content') and hasattr(candidate.content, 'parts'):
