@@ -1,0 +1,22 @@
+{
+  "2104.00634v1": {
+    "title": "Security and Machine Learning Adoption in IoT: A Preliminary Study of IoT Developer Discussions",
+    "authors": [
+      "Gias Uddin"
+    ],
+    "summary": "Internet of Things (IoT) is defined as the connection between places and\nphysical objects (i.e., things) over the internet/network via smart computing\ndevices. Traditionally, we learn about the IoT ecosystem/problems by conducting\nsurveys of IoT developers/practitioners. Another way to learn is by analyzing\nIoT developer discussions in popular online developer forums like Stack\nOverflow (SO). However, we are aware of no such studies that focused on IoT\ndevelopers' security and ML-related discussions in SO. This paper offers the\nresults of preliminary study of IoT developer discussions in SO. We find around\n12% of sentences contain security discussions, while around 0.12% sentences\ncontain ML- related discussions. We find that IoT developers discussing\nsecurity issues frequently inquired about how the shared data can be stored,\nshared, and transferred securely across IoT devices and users. We also find\nthat IoT developers are interested to adopt deep neural network-based ML models\ninto their IoT devices, but they find it challenging to accommodate those into\ntheir resource-constrained IoT devices. Our findings offer implications for IoT\nvendors and researchers to develop and design novel techniques for improved\nsecurity and ML adoption into IoT devices.",
+    "pdf_url": "http://arxiv.org/pdf/2104.00634v1",
+    "published": "2021-04-01"
+  },
+  "2109.01855v1": {
+    "title": "Network Traffic Characteristics of IoT Devices in Smart Homes",
+    "authors": [
+      "Md Mainuddin",
+      "Zhenhai Duan",
+      "Yingfei Dong"
+    ],
+    "summary": "Understanding network traffic characteristics of IoT devices plays a critical\nrole in improving both the performance and security of IoT devices, including\nIoT device identification, classification, and anomaly detection. Although a\nnumber of existing research efforts have developed machine-learning based\nalgorithms to help address the challenges in improving the security of IoT\ndevices, none of them have provided detailed studies on the network traffic\ncharacteristics of IoT devices. In this paper we collect and analyze the\nnetwork traffic generated in a typical smart homes environment consisting of a\nset of common IoT (and non-IoT) devices. We analyze the network traffic\ncharacteristics of IoT devices from three complementary aspects: remote network\nservers and port numbers that IoT devices connect to, flow-level traffic\ncharacteristics such as flow duration, and packet-level traffic characteristics\nsuch as packet inter-arrival time. Our study provides critical insights into\nthe operational and behavioral characteristics of IoT devices, which can help\ndevelop more effective security and performance algorithms for IoT devices.",
+    "pdf_url": "http://arxiv.org/pdf/2109.01855v1",
+    "published": "2021-09-04"
+  }
+}

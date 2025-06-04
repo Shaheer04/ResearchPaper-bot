@@ -1,0 +1,55 @@
+{
+  "2307.00865v1": {
+    "title": "A Survey on Graph Classification and Link Prediction based on GNN",
+    "authors": [
+      "Xingyu Liu",
+      "Juan Chen",
+      "Quan Wen"
+    ],
+    "summary": "Traditional convolutional neural networks are limited to handling Euclidean\nspace data, overlooking the vast realm of real-life scenarios represented as\ngraph data, including transportation networks, social networks, and reference\nnetworks. The pivotal step in transferring convolutional neural networks to\ngraph data analysis and processing lies in the construction of graph\nconvolutional operators and graph pooling operators. This comprehensive review\narticle delves into the world of graph convolutional neural networks. Firstly,\nit elaborates on the fundamentals of graph convolutional neural networks.\nSubsequently, it elucidates the graph neural network models based on attention\nmechanisms and autoencoders, summarizing their application in node\nclassification, graph classification, and link prediction along with the\nassociated datasets.",
+    "pdf_url": "http://arxiv.org/pdf/2307.00865v1",
+    "published": "2023-07-03"
+  },
+  "2007.06559v2": {
+    "title": "Graph Structure of Neural Networks",
+    "authors": [
+      "Jiaxuan You",
+      "Jure Leskovec",
+      "Kaiming He",
+      "Saining Xie"
+    ],
+    "summary": "Neural networks are often represented as graphs of connections between\nneurons. However, despite their wide use, there is currently little\nunderstanding of the relationship between the graph structure of the neural\nnetwork and its predictive performance. Here we systematically investigate how\ndoes the graph structure of neural networks affect their predictive\nperformance. To this end, we develop a novel graph-based representation of\nneural networks called relational graph, where layers of neural network\ncomputation correspond to rounds of message exchange along the graph structure.\nUsing this representation we show that: (1) a \"sweet spot\" of relational graphs\nleads to neural networks with significantly improved predictive performance;\n(2) neural network's performance is approximately a smooth function of the\nclustering coefficient and average path length of its relational graph; (3) our\nfindings are consistent across many different tasks and datasets; (4) the sweet\nspot can be identified efficiently; (5) top-performing neural networks have\ngraph structure surprisingly similar to those of real biological neural\nnetworks. Our work opens new directions for the design of neural architectures\nand the understanding on neural networks in general.",
+    "pdf_url": "http://arxiv.org/pdf/2007.06559v2",
+    "published": "2020-07-13"
+  },
+  "2011.01412v1": {
+    "title": "Sampling and Recovery of Graph Signals based on Graph Neural Networks",
+    "authors": [
+      "Siheng Chen",
+      "Maosen Li",
+      "Ya Zhang"
+    ],
+    "summary": "We propose interpretable graph neural networks for sampling and recovery of\ngraph signals, respectively. To take informative measurements, we propose a new\ngraph neural sampling module, which aims to select those vertices that\nmaximally express their corresponding neighborhoods. Such expressiveness can be\nquantified by the mutual information between vertices' features and\nneighborhoods' features, which are estimated via a graph neural network. To\nreconstruct an original graph signal from the sampled measurements, we propose\na graph neural recovery module based on the algorithm-unrolling technique.\nCompared to previous analytical sampling and recovery, the proposed methods are\nable to flexibly learn a variety of graph signal models from data by leveraging\nthe learning ability of neural networks; compared to previous\nneural-network-based sampling and recovery, the proposed methods are designed\nthrough exploiting specific graph properties and provide interpretability. We\nfurther design a new multiscale graph neural network, which is a trainable\nmultiscale graph filter bank and can handle various graph-related learning\ntasks. The multiscale network leverages the proposed graph neural sampling and\nrecovery modules to achieve multiscale representations of a graph. In the\nexperiments, we illustrate the effects of the proposed graph neural sampling\nand recovery modules and find that the modules can flexibly adapt to various\ngraph structures and graph signals. In the task of active-sampling-based\nsemi-supervised learning, the graph neural sampling module improves the\nclassification accuracy over 10% in Cora dataset. We further validate the\nproposed multiscale graph neural network on several standard datasets for both\nvertex and graph classification. The results show that our method consistently\nimproves the classification accuracies.",
+    "pdf_url": "http://arxiv.org/pdf/2011.01412v1",
+    "published": "2020-11-03"
+  },
+  "1908.00187v1": {
+    "title": "Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview",
+    "authors": [
+      "Jiawei Zhang"
+    ],
+    "summary": "Graph neural networks denote a group of neural network models introduced for\nthe representation learning tasks on graph data specifically. Graph neural\nnetworks have been demonstrated to be effective for capturing network structure\ninformation, and the learned representations can achieve the state-of-the-art\nperformance on node and graph classification tasks. Besides the different\napplication scenarios, the architectures of graph neural network models also\ndepend on the studied graph types a lot. Graph data studied in research can be\ngenerally categorized into two main types, i.e., small graphs vs. giant\nnetworks, which differ from each other a lot in the size, instance number and\nlabel annotation. Several different types of graph neural network models have\nbeen introduced for learning the representations from such different types of\ngraphs already. In this paper, for these two different types of graph data, we\nwill introduce the graph neural networks introduced in recent years. To be more\nspecific, the graph neural networks introduced in this paper include IsoNN,\nSDBN, LF&ER, GCN, GAT, DifNN, GNL, GraphSage and seGEN. Among these graph\nneural network models, IsoNN, SDBN and LF&ER are initially proposed for small\ngraphs and the remaining ones are initially proposed for giant networks\ninstead. The readers are also suggested to refer to these papers for detailed\ninformation when reading this tutorial paper.",
+    "pdf_url": "http://arxiv.org/pdf/1908.00187v1",
+    "published": "2019-08-01"
+  },
+  "1902.10042v2": {
+    "title": "Graph Neural Processes: Towards Bayesian Graph Neural Networks",
+    "authors": [
+      "Andrew Carr",
+      "David Wingate"
+    ],
+    "summary": "We introduce Graph Neural Processes (GNP), inspired by the recent work in\nconditional and latent neural processes. A Graph Neural Process is defined as a\nConditional Neural Process that operates on arbitrary graph data. It takes\nfeatures of sparsely observed context points as input, and outputs a\ndistribution over target points. We demonstrate graph neural processes in edge\nimputation and discuss benefits and drawbacks of the method for other\napplication areas. One major benefit of GNPs is the ability to quantify\nuncertainty in deep learning on graph structures. An additional benefit of this\nmethod is the ability to extend graph neural networks to inputs of dynamic\nsized graphs.",
+    "pdf_url": "http://arxiv.org/pdf/1902.10042v2",
+    "published": "2019-02-26"
+  }
+}
