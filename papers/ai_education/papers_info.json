@@ -1,0 +1,65 @@
+{
+  "2503.02999v1": {
+    "title": "Adapting to Educate: Conversational AI's Role in Mathematics Education Across Different Educational Contexts",
+    "authors": [
+      "Alex Liu",
+      "Lief Esbenshade",
+      "Min Sun",
+      "Shawon Sarkar",
+      "Jian He",
+      "Victor Tian",
+      "Zachary Zhang"
+    ],
+    "summary": "As educational settings increasingly integrate artificial intelligence (AI),\nunderstanding how AI tools identify -- and adapt their responses to -- varied\neducational contexts becomes paramount. This study examines conversational AI's\neffectiveness in supporting K-12 mathematics education across various\neducational contexts. Through qualitative content analysis, we identify\neducational contexts and key instructional needs present in educator prompts\nand assess AI's responsiveness. Our findings indicate that educators focus\ntheir AI conversations on assessment methods, how to set the cognitive demand\nlevel of their instruction, and strategies for making meaningful real-world\nconnections. However, educators' conversations with AI about instructional\npractices do vary across revealed educational contexts; they shift their\nemphasis to tailored, rigorous content that addresses their students' unique\nneeds. Educators often seek actionable guidance from AI and reject responses\nthat do not align with their inquiries. While AI can provide accurate,\nrelevant, and useful information when educational contexts or instructional\npractices are specified in conversation queries, its ability to consistently\nadapt responses along these evaluation dimensions varies across different\neducational settings. Significant work remains to realize the\nresponse-differentiating potential of conversational AI tools in complex\neducational use cases. This research contributes insights into developing AI\ntools that are responsive, proactive, and anticipatory, adapting to evolving\neducational needs before they are explicitly stated, and provides actionable\nrecommendations for both developers and educators to enhance AI integration in\neducational practices.",
+    "pdf_url": "http://arxiv.org/pdf/2503.02999v1",
+    "published": "2025-03-04"
+  },
+  "2408.15686v1": {
+    "title": "Navigating the Future of Education: Educators' Insights on AI Integration and Challenges in Greece, Hungary, Latvia, Ireland and Armenia",
+    "authors": [
+      "Evangelia Daskalaki",
+      "Katerina Psaroudaki",
+      "Paraskevi Fragopoulou"
+    ],
+    "summary": "Understanding teachers' perspectives on AI in Education (AIEd) is crucial for\nits effective integration into the educational framework. This paper aims to\nexplore how teachers currently use AI and how it can enhance the educational\nprocess. We conducted a cross-national study spanning Greece, Hungary, Latvia,\nIreland, and Armenia, surveying 1754 educators through an online questionnaire,\naddressing three research questions. Our first research question examines\neducators' understanding of AIEd, their skepticism, and its integration within\nschools. Most educators report a solid understanding of AI and acknowledge its\npotential risks. AIEd is primarily used for educator support and engaging\nstudents. However, concerns exist about AI's impact on fostering critical\nthinking and exposing students to biased data. The second research question\ninvestigates student engagement with AI tools from educators' perspectives.\nTeachers indicate that students use AI mainly to manage their academic\nworkload, while outside school, AI tools are primarily used for entertainment.\nThe third research question addresses future implications of AI in education.\nEducators are optimistic about AI's potential to enhance educational processes,\nparticularly through personalized learning experiences. Nonetheless, they\nexpress significant concerns about AI's impact on cultivating critical thinking\nand ethical issues related to potential misuse. There is a strong emphasis on\nthe need for professional development through training seminars, workshops, and\nonline courses to integrate AI effectively into teaching practices. Overall,\nthe findings highlight a cautious optimism among educators regarding AI in\neducation, alongside a clear demand for targeted professional development to\naddress concerns and enhance skills in using AI tools.",
+    "pdf_url": "http://arxiv.org/pdf/2408.15686v1",
+    "published": "2024-08-28"
+  },
+  "2206.03220v1": {
+    "title": "A Transparency Index Framework for AI in Education",
+    "authors": [
+      "Muhammad Ali Chaudhry",
+      "Mutlu Cukurova",
+      "Rose Luckin"
+    ],
+    "summary": "Numerous AI ethics checklists and frameworks have been proposed focusing on\ndifferent dimensions of ethical AI such as fairness, explainability, and\nsafety. Yet, no such work has been done on developing transparent AI systems\nfor real-world educational scenarios. This paper presents a Transparency Index\nframework that has been iteratively co-designed with different stakeholders of\nAI in education, including educators, ed-tech experts, and AI practitioners. We\nmap the requirements of transparency for different categories of stakeholders\nof AI in education and demonstrate that transparency considerations are\nembedded in the entire AI development process from the data collection stage\nuntil the AI system is deployed in the real world and iteratively improved. We\nalso demonstrate how transparency enables the implementation of other ethical\nAI dimensions in Education like interpretability, accountability, and safety.\nIn conclusion, we discuss the directions for future research in this newly\nemerging field. The main contribution of this study is that it highlights the\nimportance of transparency in developing AI-powered educational technologies\nand proposes an index framework for its conceptualization for AI in education.",
+    "pdf_url": "http://arxiv.org/pdf/2206.03220v1",
+    "published": "2022-05-09"
+  },
+  "2408.00025v3": {
+    "title": "Need of AI in Modern Education: in the Eyes of Explainable AI (xAI)",
+    "authors": [
+      "Supriya Manna",
+      "Niladri Sett"
+    ],
+    "summary": "Modern Education is not \\textit{Modern} without AI. However, AI's complex\nnature makes understanding and fixing problems challenging. Research worldwide\nshows that a parent's income greatly influences a child's education. This led\nus to explore how AI, especially complex models, makes important decisions\nusing Explainable AI tools. Our research uncovered many complexities linked to\nparental income and offered reasonable explanations for these decisions.\nHowever, we also found biases in AI that go against what we want from AI in\neducation: clear transparency and equal access for everyone. These biases can\nimpact families and children's schooling, highlighting the need for better AI\nsolutions that offer fair opportunities to all. This chapter tries to shed\nlight on the complex ways AI operates, especially concerning biases. These are\nthe foundational steps towards better educational policies, which include using\nAI in ways that are more reliable, accountable, and beneficial for everyone\ninvolved.",
+    "pdf_url": "http://arxiv.org/pdf/2408.00025v3",
+    "published": "2024-07-31"
+  },
+  "2504.16148v1": {
+    "title": "Towards responsible AI for education: Hybrid human-AI to confront the Elephant in the room",
+    "authors": [
+      "Danial Hooshyar",
+      "Gustav \u0160\u00edr",
+      "Yeongwook Yang",
+      "Eve Kikas",
+      "Raija H\u00e4m\u00e4l\u00e4inen",
+      "Tommi K\u00e4rkk\u00e4inen",
+      "Dragan Ga\u0161evi\u0107",
+      "Roger Azevedo"
+    ],
+    "summary": "Despite significant advancements in AI-driven educational systems and ongoing\ncalls for responsible AI for education, several critical issues remain\nunresolved -- acting as the elephant in the room within AI in education,\nlearning analytics, educational data mining, learning sciences, and educational\npsychology communities. This critical analysis identifies and examines nine\npersistent challenges that continue to undermine the fairness, transparency,\nand effectiveness of current AI methods and applications in education. These\ninclude: (1) the lack of clarity around what AI for education truly means --\noften ignoring the distinct purposes, strengths, and limitations of different\nAI families -- and the trend of equating it with domain-agnostic,\ncompany-driven large language models; (2) the widespread neglect of essential\nlearning processes such as motivation, emotion, and (meta)cognition in\nAI-driven learner modelling and their contextual nature; (3) limited\nintegration of domain knowledge and lack of stakeholder involvement in AI\ndesign and development; (4) continued use of non-sequential machine learning\nmodels on temporal educational data; (5) misuse of non-sequential metrics to\nevaluate sequential models; (6) use of unreliable explainable AI methods to\nprovide explanations for black-box models; (7) ignoring ethical guidelines in\naddressing data inconsistencies during model training; (8) use of mainstream AI\nmethods for pattern discovery and learning analytics without systematic\nbenchmarking; and (9) overemphasis on global prescriptions while overlooking\nlocalised, student-specific recommendations. Supported by theoretical and\nempirical research, we demonstrate how hybrid AI methods -- specifically\nneural-symbolic AI -- can address the elephant in the room and serve as the\nfoundation for responsible, trustworthy AI systems in education.",
+    "pdf_url": "http://arxiv.org/pdf/2504.16148v1",
+    "published": "2025-04-22"
+  }
+}

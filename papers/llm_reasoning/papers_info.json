@@ -1,0 +1,37 @@
+{
+  "2504.02590v1": {
+    "title": "LexPam: Legal Procedure Awareness-Guided Mathematical Reasoning",
+    "authors": [
+      "Kepu Zhang",
+      "Guofu Xie",
+      "Weijie Yu",
+      "Mingyue Xu",
+      "Xu Tang",
+      "Yaxin Li",
+      "Jun Xu"
+    ],
+    "summary": "The legal mathematical reasoning ability of LLMs is crucial when applying\nthem to real-world scenarios, as it directly affects the credibility of the\nLLM. While existing legal LLMs can perform general judicial question answering,\ntheir legal mathematical reasoning capabilities have not been trained.\nOpen-domain reasoning models, though able to generate detailed calculation\nsteps, do not follow the reasoning logic required for legal scenarios.\nAdditionally, there is currently a lack of legal mathematical reasoning\ndatasets to help validate and enhance LLMs' reasoning abilities in legal\ncontexts. To address these issues, we propose the first Chinese legal\nMathematical Reasoning Dataset, LexNum, which includes three common legal\nmathematical reasoning scenarios: economic compensation, work injury\ncompensation, and traffic accident compensation. Based on LexNum, we tested the\nperformance of existing legal LLMs and reasoning LLMs, and introduced LexPam, a\nreinforcement learning algorithm guided by legal procedural awareness to train\nLLMs, enhancing their mathematical reasoning abilities in legal scenarios.\nExperiments on tasks in the three legal scenarios show that the performance of\nexisting legal LLMs and reasoning models in legal mathematical reasoning tasks\nis unsatisfactory. LexPam can enhance the LLM's ability in these tasks.",
+    "pdf_url": "http://arxiv.org/pdf/2504.02590v1",
+    "published": "2025-04-03"
+  },
+  "2408.00114v2": {
+    "title": "Inductive or Deductive? Rethinking the Fundamental Reasoning Abilities of LLMs",
+    "authors": [
+      "Kewei Cheng",
+      "Jingfeng Yang",
+      "Haoming Jiang",
+      "Zhengyang Wang",
+      "Binxuan Huang",
+      "Ruirui Li",
+      "Shiyang Li",
+      "Zheng Li",
+      "Yifan Gao",
+      "Xian Li",
+      "Bing Yin",
+      "Yizhou Sun"
+    ],
+    "summary": "Reasoning encompasses two typical types: deductive reasoning and inductive\nreasoning. Despite extensive research into the reasoning capabilities of Large\nLanguage Models (LLMs), most studies have failed to rigorously differentiate\nbetween inductive and deductive reasoning, leading to a blending of the two.\nThis raises an essential question: In LLM reasoning, which poses a greater\nchallenge - deductive or inductive reasoning? While the deductive reasoning\ncapabilities of LLMs, (i.e. their capacity to follow instructions in reasoning\ntasks), have received considerable attention, their abilities in true inductive\nreasoning remain largely unexplored. To investigate into the true inductive\nreasoning capabilities of LLMs, we propose a novel framework, SolverLearner.\nThis framework enables LLMs to learn the underlying function (i.e., $y =\nf_w(x)$), that maps input data points $(x)$ to their corresponding output\nvalues $(y)$, using only in-context examples. By focusing on inductive\nreasoning and separating it from LLM-based deductive reasoning, we can isolate\nand investigate inductive reasoning of LLMs in its pure form via SolverLearner.\nOur observations reveal that LLMs demonstrate remarkable inductive reasoning\ncapabilities through SolverLearner, achieving near-perfect performance with ACC\nof 1 in most cases. Surprisingly, despite their strong inductive reasoning\nabilities, LLMs tend to relatively lack deductive reasoning capabilities,\nparticularly in tasks involving ``counterfactual'' reasoning.",
+    "pdf_url": "http://arxiv.org/pdf/2408.00114v2",
+    "published": "2024-07-31"
+  }
+}
