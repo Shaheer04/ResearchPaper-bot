@@ -2,13 +2,12 @@ import arxiv
 import json
 import os
 from typing import List
-from fastmcp import FastMCP
-
+from mcp.server.fastmcp import FastMCP
 
 PAPER_DIR = "papers"
 
 # Initialize FastMCP server
-mcp = FastMCP("research")
+mcp = FastMCP("research", port=8001)
 
 @mcp.tool()
 def search_papers(topic: str, max_results: int = 5) -> List[str]:
@@ -188,4 +187,4 @@ def generate_search_prompt(topic: str, num_papers: int = 5) -> str:
 
 if __name__ == "__main__":
     # Initialize and run the server
-    mcp.run(transport='stdio')
+    mcp.run(transport="streamable-http")
