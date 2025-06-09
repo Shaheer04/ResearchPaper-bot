@@ -1,0 +1,22 @@
+{
+  "2304.02924v1": {
+    "title": "The Governance of Physical Artificial Intelligence",
+    "authors": [
+      "Yingbo Li",
+      "Anamaria-Beatrice Spulber",
+      "Yucong Duan"
+    ],
+    "summary": "Physical artificial intelligence can prove to be one of the most important\nchallenges of the artificial intelligence. The governance of physical\nartificial intelligence would define its responsible intelligent application in\nthe society.",
+    "pdf_url": "http://arxiv.org/pdf/2304.02924v1",
+    "published": "2023-04-06"
+  },
+  "2005.10488v1": {
+    "title": "Does an artificial intelligence perform market manipulation with its own discretion? -- A genetic algorithm learns in an artificial market simulation",
+    "authors": [
+      "Takanobu Mizuta"
+    ],
+    "summary": "Who should be charged with responsibility for an artificial intelligence\nperforming market manipulation have been discussed. In this study, I\nconstructed an artificial intelligence using a genetic algorithm that learns in\nan artificial market simulation, and investigated whether the artificial\nintelligence discovers market manipulation through learning with an artificial\nmarket simulation despite a builder of artificial intelligence has no intention\nof market manipulation. As a result, the artificial intelligence discovered\nmarket manipulation as an optimal investment strategy. This result suggests\nnecessity of regulation, such as obligating builders of artificial intelligence\nto prevent artificial intelligence from performing market manipulation.",
+    "pdf_url": "http://arxiv.org/pdf/2005.10488v1",
+    "published": "2020-05-21"
+  }
+}

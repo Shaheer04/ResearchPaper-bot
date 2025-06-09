@@ -1,0 +1,22 @@
+{
+  "2105.02708v1": {
+    "title": "Towards Semantic Web: Challenges and Needs",
+    "authors": [
+      "Bryar A. Hassan"
+    ],
+    "summary": "There has been recently a growth of interest in developing the current\nmachine-readable Web towards the next generation of machine-understandable Web\n- Semantic Web. The development of the Web to a global business was reasonably\nfast, whereas Semantic Web development has taken time from a plan to be used as\nthe mainstream Web. It is also important to note that the use of Semantic Web\nwould only be successful in small technologies. However, the goal of Semantic\nWeb is to be used in big technologies and to be the mainstream Web. Some\nchallenges may impede make further progress of Semantic Web. In this review\npaper, an overview of the current status and future needs of Semantic Web will\nbe presented. Specifically, the challenges and needs of Semantic Web in the\nhope of shedding some light on the adoption or infusion of Semantic Web in the\nfuture will be discussed. Then, a critical evaluation of these challenges and\nneeds will be presented. Semantic Web has a clear vision. It is moving, in line\nwith this vision, towards overcoming the challenges and usability in real world\napplications.",
+    "pdf_url": "http://arxiv.org/pdf/2105.02708v1",
+    "published": "2021-05-06"
+  },
+  "1006.4562v1": {
+    "title": "Engineering Semantic Web Applications by Using Object-Oriented Paradigm",
+    "authors": [
+      "Amjad Farooq",
+      "Syed Ahsan",
+      "Abad Shah"
+    ],
+    "summary": "The web information resources are growing explosively in number and volume.\nNow to retrieve relevant data from web has become very difficult and\ntime-consuming. Semantic Web envisions that these web resources should be\ndeveloped in machine-processable way in order to handle irrelevancy and manual\nprocessing problems. Whereas, the Semantic Web is an extension of current web,\nin which web resources are equipped with formal semantics about their\ninterpretation through machines. These web resources are usually contained in\nweb applications and systems, and their formal semantics are normally\nrepresented in the form of web-ontologies. In this research paper, an\nobject-oriented design methodology (OODM) is upgraded for developing semantic\nweb applications. OODM has been developed for designing of web applications for\nthe current web. This methodology is good enough to develop web applications.\nIt also provides a systematic approach for the web applications development but\nit is not helpful in generating machine-pocessable content of web applications\nin their development. Therefore, this methodology needs to be extended. In this\npaper, we propose that extension in OODM. This new extended version is referred\nto as the semantic web object-oriented design methodology (SW-OODM).",
+    "pdf_url": "http://arxiv.org/pdf/1006.4562v1",
+    "published": "2010-06-23"
+  }
+}
